@@ -2,7 +2,7 @@
 
 ¡Bienvenida! Este ejercicio no busca que lo hagas perfecto. Queremos ver cómo piensas, cómo organizas tu código y cómo trabajas con Git y GitHub. Es una buena práctica de lo que se hace en el día a día de un equipo.
 
-- **Fecha de entrega:** 21 de noviembre
+- **Fecha de entrega:** 04 de diciembre
 - **Lenguaje:** C# (.NET 8 o superior)
 - **Tipo de proyecto:** aplicación de consola
 
